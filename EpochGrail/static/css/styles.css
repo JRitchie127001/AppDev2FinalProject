@@ -1,0 +1,11 @@
+.item-container {
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.item-scroll {
+    height: 100%;
+    overflow-y: scroll;
+}
+

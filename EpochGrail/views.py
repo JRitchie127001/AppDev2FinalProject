@@ -6,6 +6,11 @@ import json
 def index(request):
     return render(request, "index.html")
 
+def view_item_list(request):
+    item_list = EpochItem.objects.all()
+    return render(request, 'item_list.html', {'item_list':item_list})
+
+#TODO: create an admin option to update the list.
 def update_item_list():
     with open("EpochGrail/json/item_list.json") as f:
         result = json.loads(f.read())

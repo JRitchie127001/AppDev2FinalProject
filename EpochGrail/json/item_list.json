@@ -1,0 +1,1812 @@
+[
+  {
+    "Name": "Aaron's Will",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Abacus Rod",
+    "Base": "Wand",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Aberrant Call",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Aberroth's Command",
+    "Base": "Sceptre",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Acidfletch",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Advent of the Erased",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Aergon's Refuge",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Alchemist's Ladle",
+    "Base": "Wand",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Alluvion",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ambitions of an Erased Acolyte",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Anchor of Oblivion",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Apathy's Maw",
+    "Base": "Two-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Apex of Thought",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Apogee of Frozen Light",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Apostate's Sanctuary",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Arboreal Circuit",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Arek's Bones",
+    "Base": "One-Handed Mace",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Arrowguard",
+    "Base": "Quiver",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Artor's Legacy",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ashes of Mortality",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ashes of Orchirian",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Atrophy",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Aurelis",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Aurora's Time Glass",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Avarice",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Azurral's Fury",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Bane of Winter",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Bastion of Honour",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Battlemage's Endeavour",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Beast King",
+    "Base": "One-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Bhuldar's Wrath",
+    "Base": "Two-Handed Mace",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Black Blade of Chaos",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Blade of the Forgotten Knight",
+    "Base": "One-Handed Sword",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Bleeding Heart",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Blood of the Exile",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Blood Roost",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Bloodgeon",
+    "Base": "One-Handed Mace",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Bloodkeeper's Nest",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Bo's Anarchy",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Boardman's Fallacy",
+    "Base": "Body Armour",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Boardman's Legacy",
+    "Base": "Helmet",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Boardman's Plank",
+    "Base": "Sceptre",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Bone Harvester",
+    "Base": "Two-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Boneclamor Barbute",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Boulderfists",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Box of Hydrae",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Branch of Hallows",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Bulwark of the Last Abyss",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Burning Avarice",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Calamity",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Call of the Tundra",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Carcinization of Momentum",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Celestial Doom",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Chains of Uleros",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Chimaera's Essence",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Chronicle of the Damned",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Chronostasis",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Cinder Song",
+    "Base": "Wand",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Cleaver Solution",
+    "Base": "One-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Close Call",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Code of an Erased Sentinel",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Communion of the Erased",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Coral Aegis",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Core of the Mountain",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Corsair's Blood Cowl",
+    "Base": "Helmet",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Corsair's Boarding Shield",
+    "Base": "Shield",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Cradle of the Erased",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Crest of Unity",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Cruelty",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Culnivar's Claim",
+    "Base": "Sceptre",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Curse of Perseverance",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Cycle of Putrescence",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Dark Shroud of Cinders",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Darkstride",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Death Rattle",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Death's Embrace",
+    "Base": "Two-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Decayed Skull",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Dedication of an Erased Primalist",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Defiance of the Forgotten Knight",
+    "Base": "Shield",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Devotion",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Diothaen's Bloody Nib",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Doublet of Onos Tull",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Draalsting",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Dragonflame Edict",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Dragonsong",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Dragorath's Claw",
+    "Base": "Dagger",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Dreamthorn",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Drelkor's Compass",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Drought's Release",
+    "Base": "Dagger",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Egg of the Forgotten",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Elecoe's Abandon",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Eternal Eclipse",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Eterra's Path",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Eulogy of Blood",
+    "Base": "One-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Event Horizon",
+    "Base": "Two-Handed Mace",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Exsanguinous",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Eye of Orexia",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Eye of Reen",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Eye of Storms",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Face of the Mountain",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Faith of the Frozen",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Falcon Fists",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ferebor's Chisel",
+    "Base": "Dagger",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Ferebor's Persistence",
+    "Base": "Ring",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Fiery Dragon Shoes",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Fighting Chance",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Fingers of the Phantom Mire",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Firestarter's Torch",
+    "Base": "Sceptre",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Flames of Midnight",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Flayer's Pride",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Flight of Quetzeri",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Flight of the First",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Font of the Erased",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Foot of the Mountain",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Fractured Crown",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Fragment of the Enigma",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Fragments of the Shattered Lance",
+    "Base": "Relic",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Frey's Retreat",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Frostbite Shackles",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Frozen Eyes of Formosus",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Frozen Ire",
+    "Base": "Sceptre",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Fulgurite Shard",
+    "Base": "Dagger",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Fundamental Criterion",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Gambit of an Erased Rogue",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Gambler's Fallacy",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Gaspar's Acuity",
+    "Base": "Body Armour",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Gaspar's Insight",
+    "Base": "Helmet",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Gaspar's Will",
+    "Base": "Sceptre",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Gathering Fury",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Gladiator's Oath",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Grim Constitution",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Grimoire of Necrotic Elixirs",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Hakar's Phoenix",
+    "Base": "One-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Halvar's Pledge",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Halvar�s Stand",
+    "Base": "Boots",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Hammer of Lorent",
+    "Base": "Two-Handed Mace",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Hand of Judgement",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Harbinger of Stars",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Harbinger's Needle",
+    "Base": "Small Idol",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Harthenon's Vow",
+    "Base": "Two-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Hazelroot",
+    "Base": "Sceptre",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Heirloom of the Last Nomad",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Hell Reach",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Herald of the Scurry",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Herkir's Vessel",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Hive Mind",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Hollow Finger",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Horns of Uhkeiros",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Howl of the West Wind",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Humming Bee",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ignivar's Head",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Immolator's Oblation",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Isadora's Gravechill",
+    "Base": "Gloves",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Isadora's Revenge",
+    "Base": "Helmet",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Isadora's Tomb Binding",
+    "Base": "Belt",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Jasper's Searing Pride",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Jelkhor's Blast Knife",
+    "Base": "Dagger",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Julra's Obsession",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Julra's Stardial",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Jungle Queen's Chaps of Holding",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Keeper's Gloves",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Kelthan Blasting Agent",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Kermode's Cage",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Knowledge of an Erased Mage",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Lament of the Lost Refuge",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Last Gift of the Mountain",
+    "Base": "Relic",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Last Steps of the Living",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Legacy of the Quiet Forest",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Lessons of the Metropolis",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Lethal Concentration",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Leviathan Carver",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Li'raka's Claws",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Liath's Machinations",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Liath's Signet",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Lich's Envy",
+    "Base": "Gloves",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Lich's Scorn",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Life's Journey",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Locket of the Forgotten Knight",
+    "Base": "Amulet",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Logi's Hunger",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Longshot",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Mad Alchemist's Ladle",
+    "Base": "Wand",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Maehlin's Hubris",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Marina's Lost Soul",
+    "Base": "Wand",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Melvern's Writ",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Merophage",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Moenia Mentis",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Monument of Protection",
+    "Base": "One-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Morditas' Reach",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Mortality's Grasp",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Mourningfrost",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Murama's Hilt",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Naal's Tooth",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Nightbringer",
+    "Base": "Quiver",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Nihilis",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Null Portent",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Oceareon",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Omen of Thunder",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Omnis",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Omnividence",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Orchirian's Petals",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Orian's Eye",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Orian's Sun Seal",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Pact Severance",
+    "Base": "One-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Palarus's Sacred Light",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Paranoia",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Peak of the Mountain",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Pebbles' Bitemarked Sash",
+    "Base": "Belt",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Pebbles' Collar",
+    "Base": "Relic",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Pebbles' Femur",
+    "Base": "Wand",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Penumbra",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Phantom Grip",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Phase Point",
+    "Base": "Quiver",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Pillager's Gold",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Plague Bearer's Staff",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Plague Dragon's Tongue",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Prism Wraps",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Prismatic Gaze",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Pyre of Affliction",
+    "Base": "Two-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Quicksilver Coil",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Rahyeh's Light",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Rainbow Edge",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Raindance",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ravenous Void",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ravens' Rise",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Razorfall",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Reach of the Grave",
+    "Base": "Wand",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Red Ring of Atlaria",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Reign of Winter",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Renegade's Will",
+    "Base": "One-Handed Mace",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Reowyn's Fortress",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ribbons of Blood",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ring of the Third Eye",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Riverbend Grasp",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Roots of Vithrasil",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Rotmind",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ruby Fang Aegis",
+    "Base": "Shield",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Ruby Fang Cleaver",
+    "Base": "One-Handed Axe",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Rule of the Simoon",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Sacrificial Embrace",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Salt the Wound",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Sanguine Hoard",
+    "Base": "Quiver",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Scales of Eterra",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Scales of Eterra",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Scales of Eterra",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Scales of Lemniscate",
+    "Base": "Two-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Seed of Ekkidrasil",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Serpent's Milk",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Shadow Beacon",
+    "Base": "Two-Handed Mace",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Shadow String",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Shard of the Shattered Lance",
+    "Base": "One-Handed Sword",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Shattered Chains",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Shroud of Obscurity",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Sierpin's Fractal Tree",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Sigeon's Reprisal",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Silvafrond",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Sinathia's Dying Breath",
+    "Base": "One-Handed Mace",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Sinathia's Resurrection",
+    "Base": "Shield",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Singularity",
+    "Base": "Small Idol",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Siphon of Anguish",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Smoke Weaver",
+    "Base": "Dagger",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Snowblind",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Snowdrift",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Somnia",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Soul Bastion",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Soul Gambler's Fallacy",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Soulfire",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Spine of Malatros",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Static Shell",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Stealth",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Storm Breaker",
+    "Base": "Two-Handed Mace",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Stormcarved Testament",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Stormhide Paws",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Stormtide",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Strands of Souls",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Strong Mind",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Stygian Coal",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Stymied Fate",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Suloron's Step",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Sunforged Cuirass",
+    "Base": "Body Armour",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Sunforged Greathelm",
+    "Base": "Helmet",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Sunforged Hammer",
+    "Base": "Two-Handed Mace",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Sunwreath",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Swaddling of the Erased",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Sword Catcher",
+    "Base": "Two-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Symbol of Demise",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Talons of Valor",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Taste of Blood",
+    "Base": "One-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Tears of the Forest",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Telf'un's Mirage",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Tempest Maw",
+    "Base": "One-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Ashen Crown",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Claw",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Confluence of Fate",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Cuckoo",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Fang",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Ghost Maker",
+    "Base": "Dagger",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Inevitable",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Invoker's Frozen Heart",
+    "Base": "Amulet",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "The Invoker's Scorching Grasp",
+    "Base": "Ring",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "The Invoker's Static Touch",
+    "Base": "Ring",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "The Judicator",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Kestrel",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Last Bear's Fury",
+    "Base": "Gloves",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "The Last Bear's Lament",
+    "Base": "Helmet",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "The Last Bear's Scorn",
+    "Base": "Body Armour",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "The Last Laugh",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Scavenger",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Shattered Cycle",
+    "Base": "Sceptre",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "The Slab",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Thorn Slinger",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Thornshell",
+    "Base": "Shield",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Throne of Ambition",
+    "Base": "Adorned Idol",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Titan Heart",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Tome of Elements",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Tongue of the Aberrant Seer",
+    "Base": "Ring",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Torch Of The Pontifex",
+    "Base": "Two-Handed Mace",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Torkrefin's Hunger",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Traitor's Tongue",
+    "Base": "Dagger",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Transcriber's Graver",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Transient Rest",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Triboelectra",
+    "Base": "Wand",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Trident of the Last Abyss",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Trinity of Flames",
+    "Base": "Adorned Idol",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Troaka's Teeth",
+    "Base": "Quiver",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Tu'rani's Bident",
+    "Base": "Two-Handed Spear",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Twisted Heart of Uhkeiros",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ucenui's Sphere",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Uethrin's Stand",
+    "Base": "Bow",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Undisputed",
+    "Base": "One-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Unstable Core",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Unvar's Exile",
+    "Base": "Huge Idol",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Unvar's Hegemony",
+    "Base": "Adorned Idol",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Unvar's Rise",
+    "Base": "Large Idol",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Urzil's Pride",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Usurper's Mandate",
+    "Base": "Two-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Vaion's Chariot",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Valdyr's Chalice",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Valeroot",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Vessel of Strife",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Vial of Volatile Ice",
+    "Base": "Off-Hand Catalyst",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Vilatria's Downfall",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Vilatria's Storm Crown",
+    "Base": "Helmet",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Vipertail",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Volcanus",
+    "Base": "Two-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Vortex Pennant",
+    "Base": "Relic",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Wall of Nothing",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Ward Trail",
+    "Base": "Belt",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Wheel of Torment",
+    "Base": "Two-Handed Staff",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Wing Guards",
+    "Base": "Gloves",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Wings of Argentus",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "World Splitter",
+    "Base": "Two-Handed Axe",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Woven Flesh",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Wraithlord's Harbour",
+    "Base": "Helmet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Wrongwarp",
+    "Base": "Wand",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Xithara's Conundrum",
+    "Base": "Amulet",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Yrun's Penance",
+    "Base": "One-Handed Sword",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Yrun's Wisdom",
+    "Base": "Body Armour",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Yulia's Path",
+    "Base": "Boots",
+    "Rarity": "Unique"
+  },
+  {
+    "Name": "Zerrick's Ambition",
+    "Base": "Boots",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Zerrick's Greed",
+    "Base": "Gloves",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Zerrick's Guile",
+    "Base": "Belt",
+    "Rarity": "Set"
+  },
+  {
+    "Name": "Zeurial's Hunt",
+    "Base": "Quiver",
+    "Rarity": "Unique"
+  }
+]

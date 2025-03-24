@@ -23,10 +23,9 @@ class GrailItem(models.Model):
     has_found = models.BooleanField(default= False)
     date_found = models.DateField(null = True)
 
-    def update_item(self, newvalue):
-        self.has_found = newvalue
-        if(self.has_found == True and self.date_found == None):
+    def update_item(self):
+        #Simply flip whether the item was found, if we flip has_found to True then set the date_found
+        self.has_found = not self.has_found
+        if(self.has_found == True):
             self.date_found = timezone.now()
-        if(newvalue == False):
-            self.date_found = None
         self.save()

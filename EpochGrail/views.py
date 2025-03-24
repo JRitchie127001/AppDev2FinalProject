@@ -1,6 +1,11 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from EpochGrail.models import Grail, GrailItem, EpochItem
+from django.contrib.auth.mixins import LoginRequiredMixin
+from django.contrib.auth.mixins import PermissionRequiredMixin
+from django.contrib.auth.decorators import permission_required, login_required
 import json
+from django.http import JsonResponse
+from .forms import RegisterForm
 
 # Create your views here.
 def index(request):
@@ -8,8 +13,55 @@ def index(request):
 
 def view_item_list(request):
     item_list = EpochItem.objects.all()
-    return render(request, 'item_list.html', {'item_list':item_list})
+    return render(request, 'grail/item_list.html', {'item_list':item_list})
 
+def register(response):
+    if response.method == "POST":
+        form = RegisterForm(response.POST)
+        if form.is_valid():
+            form.save()
+            return redirect("EpochGrail:create_grail")
+    else:
+        form = RegisterForm()
+    return render(response, "registration/register.html", {"form":form})
+
+#Creates a new grail if the user has none.
+@login_required
+def create_grail(request):
+    grail = Grail.objects.filter(owner = request.user)
+    if not grail:
+        new_grail = Grail(owner = request.user)
+        new_grail.save()
+        items = EpochItem.objects.all()
+        for item in items:
+            new_item = GrailItem(grail = new_grail, item = item)
+            new_item.save()
+    return redirect("/")
+
+#Displays the editable grail for a user. If the user somehow has not created a grail (should not happen, but you can never be too careful) creates one.
+@login_required
+def edit_grail(request):
+    try:
+        grail = Grail.objects.get(owner = request.user)
+        item_list = grail.items()
+        return render(request, 'grail/edit_grail.html', {'item_list':item_list, 'user_id':request.user})
+    except Grail.DoesNotExist:
+        return redirect("EpochGrail:create_grail")
+
+@login_required
+def update_grail(request):
+    #Get the item name to query
+    item_id = json.loads(request.body)['item']
+    #Get the Grail object that the user owns
+    grail_id = Grail.objects.get(owner = request.user)
+    #get the the grail owned by the user and its list of GrailItems
+    selection = GrailItem.objects.filter(grail = grail_id).filter(item__name__contains = item_id)
+    for entry in selection:
+        entry.update_item()
+    return JsonResponse({"response": ""})
+
+
+    
 #TODO: create an admin option to update the list.
 def update_item_list():
     with open("EpochGrail/json/item_list.json") as f:

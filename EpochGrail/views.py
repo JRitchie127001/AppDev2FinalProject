@@ -56,9 +56,11 @@ def update_grail(request):
     grail_id = Grail.objects.get(owner = request.user)
     #get the the grail owned by the user and its list of GrailItems
     selection = GrailItem.objects.filter(grail = grail_id).filter(item__name__contains = item_id)
+
     for entry in selection:
         entry.update_item()
-    return JsonResponse({"response": ""})
+        state = entry.has_found
+    return JsonResponse({"response": state})
 
 
     

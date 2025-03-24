@@ -19,6 +19,11 @@
                     <div class="card-body">
                         <h5 class="card-title">{{element.item.name}}</h5>
                         <p class="card-text">{{element.item.rarity}} {{element.item.base}}</p>
+                        {% if element.has_found is True %}
+                            <input type="checkbox" id="{{element.item.name}}" disabled="disabled" checked/>
+                        {% else %}
+                            <input type="checkbox" id="{{element.item.name}}" disabled="disabled"/>
+                        {% endif %}
                     </div>
                 </div>
                 </div>

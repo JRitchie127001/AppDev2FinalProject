@@ -18,10 +18,19 @@ container.addEventListener('click', async function(e) {
             method: "POST",
             body: JSON.stringify({item:item_name})
         });
-        console.log(response.status)
+        //Get our response (boolean with new checkbox state)
+        const data = await response.json();
+        //Change the checkbox on the page based on its new state.
+        if(data.response == true) {
+            document.getElementById(item_name).checked = true
+        }
+        else {
+            document.getElementById(item_name).checked = false
+        }
     }
 });
 
+//Gets the CSRF token.
 function getCookie(name) {
     let cookieValue = null;
     if (document.cookie && document.cookie !== '') {

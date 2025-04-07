@@ -11,10 +11,13 @@ from .forms import RegisterForm
 def index(request):
     return render(request, "index.html")
 
-def view_item_list(request):
-    item_list = EpochItem.objects.all()
-    return render(request, 'grail/item_list.html', {'item_list':item_list})
+#View a stranger (or friend's) grail 
+def view_grail(request, pk):
+    grail = Grail.objects.get(owner = pk)
+    item_list = grail.items()
+    return render(request, 'grail/item_list.html', {'item_list':item_list, 'pk':pk})
 
+#User registration
 def register(response):
     if response.method == "POST":
         form = RegisterForm(response.POST)
@@ -28,7 +31,9 @@ def register(response):
 #Creates a new grail if the user has none.
 @login_required
 def create_grail(request):
+    #Make sure the user has no grail associated with their account
     grail = Grail.objects.filter(owner = request.user)
+    #Create the new grail with the user as the owner.
     if not grail:
         new_grail = Grail(owner = request.user)
         new_grail.save()

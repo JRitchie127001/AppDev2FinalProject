@@ -20,7 +20,6 @@
             {% block sidebar %}
               <ul class="sidebar-nav">
                 <li><a href="{% url 'EpochGrail:index' %}">Home</a></li>
-                <br>
               {% if user.is_authenticated %}
               <li>User: {{ user.get_username }}</li>
               <li><a href="{% url 'EpochGrail:edit_grail' %}">Edit My Grail</a></li>

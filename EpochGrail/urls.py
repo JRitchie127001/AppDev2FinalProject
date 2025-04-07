@@ -5,7 +5,7 @@ app_name = "EpochGrail"
 
 urlpatterns = [
     path('', views.index, name='index'),
-    path('item_list', views.view_item_list, name="item_list"),
+    path('view_grail', views.view_grail, name="view_grail"),
     path('register', views.register, name='register'),
     path('create_grail', views.create_grail, name='create_grail'),
     path('edit_grail', views.edit_grail, name="edit_grail"),

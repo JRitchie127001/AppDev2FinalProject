@@ -1,0 +1,36 @@
+{% extends "base_generic.html" %}
+{% block content %}
+
+{% if item_list %}
+<div class="container item-container">
+    <div class="row item-scroll" id="grail-list">
+        {% for element in item_list %}
+            <div class="col-md-3 mb-3 mt-3 grail-item" name="{{ element.item.name }}" base="{{ element.item.base }}" rarity="{{ element.item.rarity }}">
+                <div inert>
+
+                
+                <!-- Tag containing the metadata for every item (name, base, rarity)-->
+                <item-data class="item-metadata" name="{{ element.item.name }}" base="{{ element.item.base }}" rarity="{{ element.item.rarity }}"></item-data>
+
+                <div class="card h-100">
+                    {% load static %}
+                    <img src="{% static 'images/placeholder.png' %}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title">{{element.item.name}}</h5>
+                        <p class="card-text">{{element.item.rarity}} {{element.item.base}}</p>
+                        {% if element.has_found is True %}
+                            <input type="checkbox" id="{{element.item.name}}" disabled="disabled" checked/>
+                        {% else %}
+                            <input type="checkbox" id="{{element.item.name}}" disabled="disabled"/>
+                        {% endif %}
+                    </div>
+                </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div> 
+</div>
+  
+{% endif %}
+
+{% endblock %}

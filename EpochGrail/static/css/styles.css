@@ -13,3 +13,22 @@
 {
     display: none;
 }
+
+.hidden {
+    display: none;
+}
+
+.filter-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: max-content;
+}
+
+.item-filter {
+    width: max-content;
+}
+
+.flex-container {
+    display: flex;
+}

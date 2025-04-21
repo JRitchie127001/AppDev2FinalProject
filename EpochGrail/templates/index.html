@@ -1,1 +1,36 @@
 {% extends "base_generic.html" %}
+{% block content %}
+<div>
+    <div class="d-flex justify-content-center align-items-center mt-1">
+        <h1>Epoch Grail</h1>
+    </div>
+    <div class="flex-column justify-content-left align-items-center text-blurb">
+        <h4>
+            Create a "Holy Grail" to track your progress in collecting every item in Last Epoch
+        </h4>
+        <p>
+            Track your progress with a convenient searchable and filterable list of item cards and edit your grail anywhere by creating an account.
+        </p>
+        <h4>
+            Save your progress
+        </h4>
+        <p>
+            Your progress is saved every time you check an item. No need to worry about losing progress.
+        </p>
+        <h4>
+            Share your progress with friends
+        </h4>
+        <p>
+            Show off your collection of rare uniques to your friends by linking them to your grail.
+        </p>
+        <div class="d-flex justify-content-center">
+            <form action="{% url 'EpochGrail:register' %}">
+                <button type="submit" class="btn btn-info">
+                    Start your collection now!
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

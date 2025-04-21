@@ -1,6 +1,7 @@
 {% extends "base_generic.html" %}
 {% load crispy_forms_tags %}
 {% block content %}
+<h3>Create a Grail</h3>
     <form method="POST" class="form-group">
 	{% csrf_token %}
 	{{ form|crispy }}

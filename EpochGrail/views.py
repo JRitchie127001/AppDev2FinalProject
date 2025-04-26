@@ -12,10 +12,14 @@ def index(request):
     return render(request, "index.html")
 
 #View a stranger (or friend's) grail 
-def view_grail(request, pk):
-    grail = Grail.objects.get(owner = pk)
+def view_grail(request, id):
+    grail = Grail.objects.get(owner = id)
     item_list = grail.items()
-    return render(request, 'grail/item_list.html', {'item_list':item_list, 'pk':pk})
+    return render(request, 'grail/view_grail.html', {'item_list':item_list})
+
+def grail_list(request):
+    grails = Grail.objects.all()
+    return render(request, 'grail/public_grails.html', {'grail_list':grails})
 
 #User registration
 def register(response):

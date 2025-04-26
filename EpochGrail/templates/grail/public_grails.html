@@ -1,0 +1,14 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+  <h1 class="header">Grail List</h1>
+  {% if grail_list %}
+  <ul>
+    {% for grail in grail_list %}
+    <li><a href="{% url 'EpochGrail:view_grail' grail.owner.id %}">{{grail.owner}}'s Grail</a></li>
+    {% endfor %}
+  </ul>
+  {% else %}
+    <p>There are no grails currently.</p>
+  {% endif %}
+{% endblock %}
